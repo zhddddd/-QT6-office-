@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/001.PNG</file>
+        <file>images/002.PNG</file>
+        <file>images/003.PNG</file>
+        <file>images/004.PNG</file>
+        <file>images/005.PNG</file>
+        <file>images/006.PNG</file>
+        <file>images/007.PNG</file>
+        <file>images/008.PNG</file>
+        <file>images/009.PNG</file>
+        <file>images/010.PNG</file>
+        <file>images/011.PNG</file>
+        <file>images/012.PNG</file>
+        <file>images/013.PNG</file>
+        <file>images/014.PNG</file>
+        <file>images/015.PNG</file>
+        <file>images/016.PNG</file>
+        <file>images/editcopy.png</file>
+        <file>images/editcut.png</file>
+        <file>images/editpaste.png</file>
+        <file>images/editredo.png</file>
+        <file>images/editundo.png</file>
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/fileprint.png</file>
+        <file>images/filesave.png</file>
+        <file>images/textbold.png</file>
+        <file>images/textcenter.png</file>
+        <file>images/textitalic.png</file>
+        <file>images/textjustify.png</file>
+        <file>images/textleft.png</file>
+        <file>images/textright.png</file>
+        <file>images/textunder.png</file>
+        <file>images/wordlogo1.png</file>
+        <file>images/wordlogo2.png</file>
+    </qresource>
+</RCC>
